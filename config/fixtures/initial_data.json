@@ -1,0 +1,92 @@
+[
+    {
+        "model": "tasks.task",
+        "pk": 1,
+        "fields": {
+            "title": "Comprar leite",
+            "status": "TODO",
+            "description": "Ir ao mercado e comprar 2 litros de leite"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 2,
+        "fields": {
+            "title": "Estudar Python",
+            "status": "IN_PROGRESS",
+            "description": "Ler o capítulo 5 do livro sobre Python"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 3,
+        "fields": {
+            "title": "Fazer exercícios de matemática",
+            "status": "DONE",
+            "description": "Resolver os problemas 1 a 10 do caderno de exercícios"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 4,
+        "fields": {
+            "title": "Ligar para o médico",
+            "status": "TODO",
+            "description": "Marcar uma consulta para a próxima semana"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 5,
+        "fields": {
+            "title": "Pagar contas",
+            "status": "IN_PROGRESS",
+            "description": "Pagar a conta de luz e a conta de água"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 6,
+        "fields": {
+            "title": "Correr 5 km",
+            "status": "DONE",
+            "description": "Correr no parque pela manhã"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 7,
+        "fields": {
+            "title": "Ler livro",
+            "status": "TODO",
+            "description": "Começar a ler o novo livro de ficção científica"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 8,
+        "fields": {
+            "title": "Assistir filme",
+            "status": "IN_PROGRESS",
+            "description": "Assistir ao filme indicado pelo amigo"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 9,
+        "fields": {
+            "title": "Cozinhar jantar",
+            "status": "DONE",
+            "description": "Preparar o jantar para a família"
+        }
+    },
+    {
+        "model": "tasks.task",
+        "pk": 10,
+        "fields": {
+            "title": "Limpar a casa",
+            "status": "TODO",
+            "description": "Fazer a limpeza completa da casa"
+        }
+    }
+]
